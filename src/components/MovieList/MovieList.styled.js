@@ -14,7 +14,7 @@ export const Item = styled.li`
   }
 
   a:hover {
-    color: #d24b71;
+    color: #277500ff;
     padding-left: 8px;
   }
 `;

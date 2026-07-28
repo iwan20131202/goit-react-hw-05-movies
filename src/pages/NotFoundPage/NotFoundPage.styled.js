@@ -28,12 +28,12 @@ export const Text = styled.p`
 export const HomeLink = styled(Link)`
   padding: 12px 24px;
   border-radius: 8px;
-  background: #d24b71;
+  background: #fff200ff;
   color: white;
   font-size: 18px;
   transition: 0.3s;
 
   &:hover {
-    background: #b7385c;
+    background: #00ffaaff;
   }
 `;

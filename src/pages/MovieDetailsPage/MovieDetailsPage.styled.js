@@ -6,13 +6,13 @@ export const BackLink = styled(Link)`
   align-items: center;
   gap: 8px;
   margin-bottom: 30px;
-  color: #d24b71;
+  color: #ff3300ff;
   font-weight: 600;
   font-size: 18px;
   transition: color 0.3s;
 
   &:hover {
-    color: #b8335a;
+    color: #3e8645ff;
   }
 `;
 
@@ -48,7 +48,7 @@ export const Subtitle = styled.h2`
 
 export const Additional = styled.div`
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ff0000ff;
   padding: 22px 0;
   margin-bottom: 30px;
 

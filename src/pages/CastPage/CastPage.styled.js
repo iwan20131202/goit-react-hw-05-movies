@@ -15,7 +15,7 @@ export const Image = styled.img`
   height: 240px;
   object-fit: cover;
   margin: 0 auto 15px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 5px 15px rgba(255, 179, 0, 0.15);
 `;
 
 export const Name = styled.h3`

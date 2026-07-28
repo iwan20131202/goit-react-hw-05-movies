@@ -5,7 +5,7 @@ export const Header = styled.header`
   background: white;
   padding: 18px 0;
   margin-bottom: 40px;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 12px rgba(255, 0, 0, 0.08);
 `;
 
 export const Main = styled.main`

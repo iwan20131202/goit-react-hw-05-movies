@@ -10,7 +10,7 @@ export const Item = styled.li`
   padding: 32px;
   background: white;
   border-radius: 8px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 10px rgba(255, 0, 0, 0.1);
 `;
 
 export const Author = styled.h3`
